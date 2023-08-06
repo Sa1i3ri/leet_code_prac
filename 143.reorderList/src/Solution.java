@@ -41,24 +41,15 @@ class Solution {
         return mid;
 
     }
-    public static void main(String[] argv){
-        ListNode tail3 = new ListNode(5);
-        ListNode tail2 = new ListNode(4,tail3);
-        ListNode tail = new ListNode(3,tail2);
-        ListNode mid = new ListNode(2,tail);
-        ListNode head = new ListNode(1,mid);
-        Solution solution = new Solution();
-        solution.reorderList(head);
-        System.out.println(head.next.next.next.next.val);
-    }
+
 
 
 }
 
 class ListNode {
-     int val;
-     ListNode next;
-     ListNode() {}
-    ListNode(int val) { this.val = val; }
-    ListNode(int val, ListNode next) { this.val = val; this.next = next; }
- }
+      int val;
+      ListNode next;
+      ListNode() {}
+      ListNode(int val) { this.val = val; }
+      ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+  }
