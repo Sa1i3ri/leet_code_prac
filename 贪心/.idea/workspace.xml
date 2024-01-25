@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="94dc39a9-7d4c-451e-b300-47a963014c60" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../DFS/130.被围绕的区域/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/1575.统计所有可行路径/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/17.电话号码的字母组合/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/200.岛屿数量/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/39. 组合总和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/40. 组合总和 2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/47.全排列 2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/733.图像渲染/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/77. 组合/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DFS/79.单词搜索/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../其他/1284.转化为全零矩阵的最少反转次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/120. 三角形最小路径和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/1289. 下降路径最小和 II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/1524.和为奇数的子数组数目/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/1575. 统计所有可行路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/329.矩阵中的最长递增路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/329.矩阵中的最长递增路径/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/5.最长回文子串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/62. 不同路径/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/63. 不同路径 II/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/64. 最小路径和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../动态规划/931. 下降路径最小和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../哈希表/1284.转化为全零矩阵的最少反转次数/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../哈希表/1284.转化为全零矩阵的最少反转次数/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../哈希表/1284.转化为全零矩阵的最少反转次数/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../哈希表/1284.转化为全零矩阵的最少反转次数/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../哈希表/1284.转化为全零矩阵的最少反转次数/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../哈希表/2. 无重复字符的最长字串/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1652.decrypt/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1652.decrypt/.idea/1652.decrypt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1652.decrypt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1652.decrypt/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1652.decrypt/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1652.decrypt/out/production/1652.decrypt/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../1652.decrypt/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/.idea/226.invertTree.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/out/production/226.invertTree/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/out/production/226.invertTree/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../226.invertTree/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4.findMedianSortedArrays/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../823.numFactoredBinaryTrees/.idea/823.numFactoredBinaryTrees.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../823.numFactoredBinaryTrees/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../823.numFactoredBinaryTrees/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../823.numFactoredBinaryTrees/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../823.numFactoredBinaryTrees/src/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mininumXORsum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mininumXORsum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mininumXORsum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mininumXORsum/mininumXORsum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mininumXORsum/out/production/mininumXORsum/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mininumXORsum/out/production/mininumXORsum/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mininumXORsum/src/Solution.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2bK8xD6snbl61p8YZGztc6NptJ1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Codes/leet_code_prac/贪心/2310.个位数字为K的整数之和",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-249ae16d76d6-478b1d29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="94dc39a9-7d4c-451e-b300-47a963014c60" name="更改" comment="" />
+      <created>1705952653900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705952653900</updated>
+      <workItem from="1705952655155" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
