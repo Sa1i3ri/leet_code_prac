@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bca4bb80-6b15-40bf-bd8e-db31f6e8c83a" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../DFS/131.分割回文串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/216. 组合总和 III/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/216. 组合总和 III/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/216. 组合总和 III/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/216. 组合总和 III/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/216. 组合总和 III/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/22.括号生成/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/720.词典中最长的单词/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DFS/78.子集/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/100.相同的树/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/100.相同的树/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/100.相同的树/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/100.相同的树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/100.相同的树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/100.相同的树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/101.对称二叉树/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/101.对称二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/101.对称二叉树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/102.二叉树的层序遍历/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/102.二叉树的层序遍历/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/102.二叉树的层序遍历/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/102.二叉树的层序遍历/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/102.二叉树的层序遍历/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/102.二叉树的层序遍历/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/103.二叉树的锯齿形层序遍历/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/103.二叉树的锯齿形层序遍历/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/103.二叉树的锯齿形层序遍历/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/103.二叉树的锯齿形层序遍历/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/103.二叉树的锯齿形层序遍历/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/103.二叉树的锯齿形层序遍历/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/104.二叉树的最大深度/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/104.二叉树的最大深度/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/104.二叉树的最大深度/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/104.二叉树的最大深度/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/104.二叉树的最大深度/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/104.二叉树的最大深度/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/110.平衡二叉树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/110.平衡二叉树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/199.二叉树的右视图/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/199.二叉树的右视图/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/199.二叉树的右视图/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/199.二叉树的右视图/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/199.二叉树的右视图/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/199.二叉树的右视图/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/235.二叉搜索树的最近公共祖先/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/235.二叉搜索树的最近公共祖先/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/236.二叉树的最近公共祖先/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/236.二叉树的最近公共祖先/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/2673. 使二叉树所有路径值相等的最小代价/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/513.找树左下角的值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/513.找树左下角的值/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/98.验证二叉搜索树/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/98.验证二叉搜索树/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/98.验证二叉搜索树/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/98.验证二叉搜索树/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/98.验证二叉搜索树/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../二叉树/98.验证二叉搜索树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1690.石子游戏V/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1696. 跳跃游戏 VI/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../1774.最接近目标价格的甜点成本/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../209.长度最小的子数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2670.找出不同元素数目差数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../292.Nim游戏/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../292.Nim游戏/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../292.Nim游戏/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../292.Nim游戏/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../292.Nim游戏/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../365.水壶问题/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../6. Z 字形变换/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../动态规划/198. 打家劫舍/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../动态规划/494. 目标和/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../动态规划/494. 目标和2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../左右双指针/153.寻找旋转排序数组中的最小值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../左右双指针/162.寻找峰值/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../左右双指针/3.无重复字符的最长子串/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../左右双指针/33.搜索旋转排序数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../左右双指针/34.在排序数组中查找元素的第一个和最后一个位置/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../左右双指针/713.乘积小于K的子数组/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../赛1/A/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../赛1/B/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../赛1/C/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/141.环形链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/141.环形链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/142.环形链表2/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/142.环形链表2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/19.删除链表的倒数第N个结点/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/19.删除链表的倒数第N个结点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/2.两数相加/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/2.两数相加/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/206.反转链表/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/206.反转链表/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/206.反转链表/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/206.反转链表/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/206.反转链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/206.反转链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/237.删除链表中的节点/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/237.删除链表中的节点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/25.K个一组翻转链表/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/25.K个一组翻转链表/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/82.删除排序链表中的重复元素2/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/82.删除排序链表中的重复元素2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/83.删除排序链表中的重复元素/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/83.删除排序链表中的重复元素/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/876.链表的中间结点/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/876.链表的中间结点/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/876.链表的中间结点/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/876.链表的中间结点/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/876.链表的中间结点/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/876.链表的中间结点/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/92.反转链表2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/92.反转链表2/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../链表/92.反转链表2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../124.二叉树中的最大路径和/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../124.二叉树中的最大路径和/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2czLVDAzWhtv6YiQue0dl0hlXTi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Codes/leet_code_prac/动态规划/494. 目标和2",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-20.0.2-corretto-20.0.2.1-249ae16d76d6-478b1d29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="bca4bb80-6b15-40bf-bd8e-db31f6e8c83a" name="更改" comment="" />
+      <created>1709109482341</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709109482341</updated>
+      <workItem from="1709109483744" duration="1942000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
